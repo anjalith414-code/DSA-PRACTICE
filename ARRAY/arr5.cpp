@@ -1,4 +1,4 @@
-// find the largest element of array
+//reverse of array
 #include<iostream>
 using namespace std;
 int main(){
